@@ -1,0 +1,48 @@
+[
+    {
+        "id":"0",
+        "car":"Benz Sprinter",
+        "num":"304",
+        "schedule":"BL01",
+        "schenum":"BL011009",
+        "accord1":"20.18963",
+        "accord2":"-0.79635",
+        "timest":"8:00",
+        "timerun":"5h30min",
+        "distance":"280km",
+        "speed":"90kph",
+        "timend":"-"
+       
+    },
+    {
+        "id":"1",
+        "car":"Ford Transport250",
+        "num":"305",
+        "schedule":"YH01",
+        "schenum":"YH011009",
+        "accord1":"21.23963",
+        "accord2":"-0.99635",
+        "timest":"7:30",
+        "timerun":"8h30min",
+        "distance":"580km",
+        "speed":"110kph",
+        "timend":"19:43"
+        
+    },
+    {
+        "id":"2",
+        "car":"Ford Transport350HD",
+        "num":"306",
+        "schedule":"IJ02",
+        "schenum":"IJ021009",
+        "accord1":"19.18963",
+        "accord2":"-1.79635",
+        "timest":"6:00",
+        "timerun":"7h30min",
+        "distance":"380km",
+        "speed":"120kph",
+        "timend":"-"
+        
+    }
+
+]

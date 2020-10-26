@@ -3,6 +3,7 @@ import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css'
 import App from './App.vue'
 import * as VueGoogleMaps from 'vue2-google-maps'
+import store from './store'
 
 
 Vue.config.productionTip = false
@@ -32,5 +33,7 @@ Vue.use(VueGoogleMaps, {
   // installComponents: true,
 })
 new Vue({
+  el:'#app',
+  store,
   render: h => h(App),
 }).$mount('#app')
